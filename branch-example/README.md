@@ -1,5 +1,5 @@
-Software Engineer specializing in full-stack web development with strong experience in JavaScript and Python. Skilled in building scalable RESTful and GraphQL APIs, designing clean architectures, and delivering maintainable, high-quality code.
+Μηχανικός Λογισμικού με εξειδίκευση στην ανάπτυξη ιστοσελίδων πλήρους στοίβας με μεγάλη εμπειρία σε JavaScript και Python. Ειδικευμένος στη δημιουργία επεκτάσιμων RESTful και GraphQL API, στο σχεδιασμό καθαρών αρχιτεκτονικών και στην παροχή διατηρήσιμου, υψηλής ποιότητας κώδικα.
 
-I have hands-on experience developing backend systems with Node.js, Express, Django, and Flask, working with both relational and non-relational databases. I focus on writing clean, testable code following SOLID principles and best practices in software architecture.
+Έχω πρακτική εμπειρία στην ανάπτυξη συστημάτων backend με Node.js, Express, Django και Flask, εργαζόμενος τόσο με σχεσιακές όσο και με μη σχεσιακές βάσεις δεδομένων. Εστιάζω στη σύνταξη καθαρού, ελέγξιμου κώδικα ακολουθώντας τις αρχές SOLID και τις βέλτιστες πρακτικές στην αρχιτεκτονική λογισμικού.
 
-Passionate about solving real-world problems through technology, I enjoy designing efficient systems, optimizing performance, and continuously improving code quality. I am committed to continuous learning, collaboration, and delivering reliable solutions that create measurable impact.
+Παθιασμένος με την επίλυση προβλημάτων πραγματικού κόσμου μέσω της τεχνολογίας, απολαμβάνω τον σχεδιασμό αποτελεσματικών συστημάτων, τη βελτιστοποίηση της απόδοσης και τη συνεχή βελτίωση της ποιότητας του κώδικα. Δεσμεύομαι στη συνεχή μάθηση, τη συνεργασία και την παροχή αξιόπιστων λύσεων που δημιουργούν μετρήσιμο αντίκτυπο.
